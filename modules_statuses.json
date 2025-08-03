@@ -1,0 +1,11 @@
+{
+    "Doctors": true,
+    "Patients": true,
+    "Auth": true,
+    "Users": true,
+    "Specialties": true,
+    "Appointments": true,
+    "Dashboard": true,
+    "Payments": true,
+    "Contacts": true
+}
